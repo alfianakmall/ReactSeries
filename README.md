@@ -19,6 +19,14 @@ This repository contains the code for Learning React JS. Heres The Link to The S
 - Conditional Login(cannot go to products page if not logged in)
 ![image](https://github.com/alfianakmall/ReactSeries/assets/81949969/e4296bdd-0d1a-4f5a-90fd-8a64870ca70a)
 
+### Third Project
+- Make Details Product Page.
+- Dynamic Routing.
+- Using Custom Hooks.
+
+![image](https://github.com/alfianakmall/ReactSeries/assets/81949969/de5e56f2-fac5-4bca-bda9-1b1e0c00bd3b)
+
+
 ## Getting Started
 
 To get started with this project, follow these steps:
