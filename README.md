@@ -11,7 +11,13 @@ This repository contains the code for Learning React JS. Heres The Link to The S
 
 ![image](https://github.com/alfianakmall/ReactSeries/assets/81949969/151c0517-9ad4-4d07-a966-0e885c72647b)
 
-
+### Second Project
+- Make A Shop Catalogue with card.
+- Shopping Cart System.
+- Get user data to login from API.
+- get all the shop items from API.
+- Conditional Login(cannot go to products page if not logged in)
+![image](https://github.com/alfianakmall/ReactSeries/assets/81949969/e4296bdd-0d1a-4f5a-90fd-8a64870ca70a)
 
 ## Getting Started
 
