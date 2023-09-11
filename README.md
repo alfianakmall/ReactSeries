@@ -17,6 +17,7 @@ This repository contains the code for Learning React JS. Heres The Link to The S
 - Get user data to login from API.
 - get all the shop items from API.
 - Conditional Login(cannot go to products page if not logged in)
+- 
 ![image](https://github.com/alfianakmall/ReactSeries/assets/81949969/e4296bdd-0d1a-4f5a-90fd-8a64870ca70a)
 
 ### Third Project
@@ -26,6 +27,15 @@ This repository contains the code for Learning React JS. Heres The Link to The S
 
 ![image](https://github.com/alfianakmall/ReactSeries/assets/81949969/de5e56f2-fac5-4bca-bda9-1b1e0c00bd3b)
 
+### Third Project
+- Using Redux State Management.
+- Applying useContext And UseReducer.
+- Using Custom Hooks.
+- Finishing and make it more clean.
+- Dark Mode & Light Mode Toogle
+- Item & Total Price Counter
+
+![image](https://github.com/alfianakmall/ReactSeries/assets/81949969/c820c3ea-1245-44b9-b3a0-4fdbadebd681)
 
 ## Getting Started
 
